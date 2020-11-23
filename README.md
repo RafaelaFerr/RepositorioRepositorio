@@ -1,3 +1,3 @@
 # RepositorioRepositorio
-Lista de compras 
+Lista de tarefas, útil para lembrar das atividades a serem realizadas no cotidiano
 
